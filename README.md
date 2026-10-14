@@ -1,5 +1,5 @@
 # Overview
-This does not contain the source for Korolow's Innogen, for that, please go to tcp6://p4.korolow.com:1666.
+###### This does not contain the source for Korolow's Innogen, for that, please go to tcp6://p4.korolow.com:1666 via p4 (user: community_user1, passwd: Community#Korolow!.).
 
 ![Boot Texture](https://github.com/korolowcorp/innogen/blob/main/boottex.png?raw=true)
 
