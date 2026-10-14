@@ -1,7 +1,7 @@
 # Overview
 This does not contain the source for Korolow's Innogen, for that, please go to https://p4.korolow.com.
 
-![Boot Texture](https://github.com/korolowcorp/innogen/raw/refs/heads/master/boottex.png)
+![Boot Texture](https://github.com/korolowcorp/innogen/blob/main/boottex.png?raw=true)
 
 ---
 
