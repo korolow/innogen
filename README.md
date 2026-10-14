@@ -1,5 +1,5 @@
 # Overview
-This directory contains the core source code, build scaffolding, and modular subsystems for Innogen.
+This does not contain the source for Korolow's Innogen, for that, please go to https://p4.korolow.com.
 
 ![Boot Texture](https://github.com/korolowcorp/innogen/raw/refs/heads/master/boottex.png)
 
